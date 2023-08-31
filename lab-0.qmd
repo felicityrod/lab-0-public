@@ -1,6 +1,6 @@
 ---
 title: "Lab 0 - Hello R!"
-author: "[INSERT NAME]"
+author: "[Felicity Rodriguez]"
 date: "[INSERT DATE]"
 format: pdf
 editor: visual
